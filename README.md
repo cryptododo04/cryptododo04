@@ -1,7 +1,18 @@
-### Hi there 👋
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxZWEyOWQ5NjhiYjdmMWRlNzNmNTg3MzZkMzE1YzIyNjBjMGViOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100"/>
+  
+  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="400"/>
+  
+  <div id="badges">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </div>
+  
+  
 </div>
+
+
 <!--
 **cryptododo04/cryptododo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
