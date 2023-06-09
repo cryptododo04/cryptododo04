@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="200"/>
+  <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="250"/>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/santiagocuda/">
@@ -15,14 +15,12 @@
   </a>
 </div>
   
-  <img src="https://komarev.com/ghpvc/?username=cryptododo04&style=flat-square&color=blue" alt=""/>
   
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="500"/>
   
 </div>
 
@@ -39,7 +37,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-santicuda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiagocuda/)
 
-
+<div align="center">
+  <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" width="500"/>
+  </div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
